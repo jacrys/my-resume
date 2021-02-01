@@ -1,2 +1,7 @@
 
 ~*
+node_modules/*
+
+/out/latex/examples/fonts
+/out/latex/examples/awesome-cv.cls
+/out/latex/examples/fontawesome.sty

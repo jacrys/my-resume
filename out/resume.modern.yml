@@ -1,0 +1,326 @@
+name: 'Keith Lewis'
+info:
+  label: 'Developer III at Summit ESP'
+  image: 'https://en.gravatar.com/userimage/27363297/ca9c48aaa8718c563801201a4166a01c?size=400'
+  brief: 'A self-taught Software Engineer with a varied experience whose programming languages include JavaScript, C#, Python, VBA, SQL (PL/SQL, T-SQL, Jet-SQL).  Experience with technologies such as ASP.NET, REST, JSON, SOAP, XML, AJAX, CSS, HTML, Server 2003/2012, SQL Server 2005/2008 R2/2012. IIS 6/8, Oracle SQL, Access, Salesforce and unique experience with platforms such as Splunk.'
+contact:
+  email: kclewis0614@gmail.com
+  phone: 417-429-7601
+meta:
+  theme: jacrys
+  palette:
+    primary: amber
+    secondary: blue
+  darkMode: false
+  format: FRESH@^1.0.0-beta
+  modified: '2021-01-14T07:37:09.751Z'
+location:
+  city: Jenks
+  region: Oklahoma
+  country: US
+  code: '74037'
+  address: '150 Fox Run Circle'
+employment:
+  history:
+    -
+      position: 'Developer III'
+      employer: 'Summit ESP'
+      summary: ""
+      current: true
+      start: '2019-05-31'
+      keywords: []
+      highlights:
+        - 'Refactoring Django/Angular app into a Flask/Vue App, Developed side-by-side with existing app'
+        - 'Maintained and extended existing Django applications and developed Python scripts to meet business demands'
+        - 'Maintained and created servers, networking stacks and ECS'
+        - 'Utilised Travis CI to automate testing/validation'
+        - 'Managed Git workflow of several projects'
+    -
+      position: 'ERP Admin/Business Reporting'
+      employer: 'Summit ESP'
+      summary: ""
+      start: '2017-03-31'
+      end: '2019-05-31'
+      keywords: []
+      highlights:
+        - 'Administered Fishbowl, a custom Java ERP backed by Firebird. Added new users, maintained pricing rules.'
+        - 'Developed Excel-based ODBC reports for users out of MySQL and Firebird and implemented a self-service reporting tool.'
+        - 'Developed VBA automation for pulling SCADA data for wells out of a PostgreSQL database.'
+        - 'Developed and Maintained C# programs for importing and exporting data from Fishbowl.'
+        - 'Developed financial dashboard in Microsoft PowerBI and in QlikView.'
+    -
+      position: 'Owner/Lead Solutions Magician'
+      employer: 'Trinity Computers (Business Application Development)'
+      summary: ""
+      current: true
+      start: '2015-03-31'
+      keywords: []
+      highlights:
+        - 'Building .NET Core app to make it easier to find Foss projects to submit your first PR to. '
+        - 'Developing .NET Core app to assist job hunters with tracking applications, giving recruiters an easy view, and rating recruiters'
+        - 'Planning .NET Core app to that will be a multi-industry modular modern ERP solution '
+        - 'Deploying applications to AWS'
+    -
+      position: 'Reporting Developer III'
+      employer: 'Avis Budget Group'
+      summary: ""
+      start: '2014-10-31'
+      end: '2017-03-31'
+      keywords: []
+      highlights:
+        - 'Developed email survey invitation scheduling tool in C#, utilizing customizable timing w/10% response rate that used JSON config files.'
+        - 'Developed tracking tools utilizing custom branching logic in C#, with logic that fully resets if user changes original responses. '
+        - 'Developed cross-framework websites using modern web methodologies. '
+        - 'Responsible for Server maintenance and performance'
+    -
+      position: 'Hotel Systems Analyst Lead'
+      employer: Expedia
+      summary: ""
+      start: '2010-07-31'
+      end: '2014-10-31'
+      keywords: []
+      highlights:
+        - 'Resolved issues with hoteliers’ access to internal systems, appearance on partner websites and reservations processing incorrectly. '
+        - 'Created and modified T-SQL queries to complete the duties at hand. '
+        - 'Navigated multiple web-based support systems to ensure that the data is showing and booking correctly on the partner websites. '
+        - 'Developed an automation system for resolution of failed e-mail/ notifications, saving 40% - 60% in time and about $35,000 yearly.'
+        - 'Developed and implemented an automation system in VBA for assignment of analyst casework, to mitigate out-of-order case work.'
+    -
+      position: 'Agent Support Group'
+      employer: 'Teletech (HP)'
+      summary: ""
+      start: '2007-09-30'
+      end: '2010-05-31'
+      keywords: []
+      highlights:
+        - 'Created reports to outline agent, supervisor and site level performance on a variety of metrics. '
+        - 'Maintained databases in Microsoft Access as well as Microsoft SQL Server 2008, created queries for Jet-SQL, Transact-SQL and PL/SQL to create reports that met the needs of the client. '
+        - 'Developed VBA programs to automate data-mining and data collection to speed up daily performance.'
+        - 'Performed regular audits to ensure ticket coding process adherence and coached agents in process and problem-solving skills. '
+        - 'Ensured agents were following calling procedures, maintaining continuing education and following proper callback procedures. '
+        - 'Led a successful fundraising project for the Leukemia and Lymphoma Society as a part of a leadership development program; raised $1700 for the Leukemia and Lymphoma Society.'
+education:
+  level: ""
+  history:
+    -
+      institution: 'Western Governors University'
+      start: '2019-12-31'
+      end: '2022-03-31'
+      grade: ""
+      curriculum: []
+      summary: ""
+      area: 'Software Development'
+      studyType: 'Bachelor of Science - BS'
+    -
+      institution: 'Free Code Camp'
+      start: '2016-12-31'
+      end: '2017-12-31'
+      grade: ""
+      curriculum: []
+      summary: ""
+      area: 'Computer Software Engineering'
+      studyType: 'Full Stack Web Development Certification'
+    -
+      institution: 'Missouri Southern State University'
+      start: '2000-12-31'
+      end: '2005-12-31'
+      grade: ""
+      curriculum: []
+      summary: ""
+      area: 'Pre-veterinary Medicine'
+      studyType: 'BS in Biology'
+    -
+      institution: 'Webb City High School'
+      start: '1996-12-31'
+      end: '2000-12-31'
+      grade: ""
+      curriculum: []
+      summary: ""
+      area: Biology
+      studyType: 'High School Diploma'
+service:
+  history:
+    -
+      type: volunteer
+      position: 'Volunteer Developer'
+      organization: 'Code for America'
+      start: '2015-05-31'
+      url: 'https://www.linkedin.com/company/660862'
+      summary: 'Assisted with project development and implementation for the Tulsa, OK affiliate.'
+      highlights: []
+    -
+      type: volunteer
+      position: Developer
+      organization: 'Free Code Camp'
+      start: '2015-11-30'
+      url: 'https://www.linkedin.com/company/4831032'
+      summary: 'I worked on development solutions for non-profit organizations in the course of completing online certifications.'
+      highlights: []
+skills:
+  sets:
+    -
+      name: '.NET Framework'
+      level: Advanced
+      skills:
+        - 'C#'
+        - 'ASP.NET MVC'
+        - 'ASP.NET AJAX'
+        - Syncfusion
+        - 'ASP.NET Core'
+        - ASP.NET
+        - 'ASP.NET Web API'
+        - WebForms
+        - WinForms
+    -
+      name: 'Web Development'
+      level: Advanced
+      skills:
+        - Bootstrap
+        - REST
+        - SOAP
+        - HTML5
+        - Vue
+        - React
+        - AngularJS
+        - CSS
+        - JavaScript
+        - jQuery
+        - 'RESTful WebServices'
+    -
+      name: SQL
+      level: Advanced
+      skills:
+        - TSQL
+        - PLSQL
+        - Postgres
+        - MSSQL
+        - MySQL
+        - Oracle
+        - Access
+    -
+      name: Servers
+      level: Advanced
+      skills:
+        - 'Microsoft SQL Server 2008-2012'
+        - SSRS
+        - Postgres
+        - MSSQL
+        - MySQL
+        - Oracle
+        - Access
+    -
+      name: 'Soft Skills'
+      level: Advanced
+      skills:
+        - Troubleshooting
+        - 'Process Improvement'
+        - 'Leadership Development'
+        - 'Technical Support'
+        - Management
+        - 'Lateral Thinking'
+        - Leadership
+    -
+      name: 'Hard Skills'
+      level: Advanced
+      skills:
+        - 'Software Development'
+        - 'Process Improvement'
+        - 'Data Analysis'
+    -
+      name: Languages
+      level: Advanced
+      skills:
+        - 'C#'
+        - JavaScript
+        - HTML
+        - CSS
+        - Python
+        - VBA
+    -
+      name: Languages
+      level: Beginner
+      skills:
+        - 'Ruby on Rails'
+    -
+      name: 'Data Formats'
+      level: Advanced
+      skills:
+        - XML
+        - JSON
+    -
+      name: 'Collaboration Tools'
+      level: Advanced
+      skills:
+        - JIRA
+        - Confluence
+        - Github
+    -
+      name: 'Development Tools'
+      level: Advanced
+      skills:
+        - WSL
+        - 'VS Code'
+        - 'Visual Studio 2010+'
+writing: []
+social:
+  -
+    label: LinkedIn
+    network: LinkedIn
+    url: 'https://www.linkedin.com/in/jacrys/'
+    user: jacrys
+  -
+    label: Github
+    network: Github
+    url: 'https://github.com/jacrys'
+    user: jacrys
+  -
+    label: StackOverflow
+    network: StackOverflow
+    url: 'https://stackoverflow.com/story/jacrys'
+    user: jacrys
+  -
+    label: Twitter
+    network: Twitter
+    url: 'https://twitter.com/TrinityCompSoft'
+    user: TrinityCompSoft
+  -
+    label: Twitter
+    network: Twitter
+    url: 'https://twitter.com/jacrystalach'
+    user: jacrystalach
+interests: []
+testimonials:
+  -
+    name: 'Jason Whitehorn'
+    flavor: professional
+    quote: "No egos here, just a big smile, a wonderful personality, combined with a can-do attitude that makes for a wonderful addition to any team!\n\nI had the pleasure of working with Keith for two years, during which time I witnessed a profound amount of professional growth. Keith has a wonderful attitude, and when the opportunity arose for him to take on more responsibilities he jumped in with both feet and did not disappoint. \n\nKeith is the rare individual who is simultaneously willing to listen as well as push his own thoughts out there - the end result being a person who is equally as adept at being the student as well as the teacher. I truly hope I will have the opportunity to work with him again."
+    private: false
+  -
+    name: 'Alicia May'
+    flavor: professional
+    quote: 'Keith was a pleasure to work with.  He is highly intelligent, extremely analytical and detail oriented.  Keith did an excellent job creating reports and SQL queries for our team.  He was also a knowledge resource for  many of the new analysts and we miss him on our team.'
+    private: false
+  -
+    name: 'Melody KirkWagner'
+    flavor: professional
+    quote: 'I had the pleasure of working with Keith as a client. He reported and followed through on issues belonging to the team I worked with. He was so incredibly polite, patient and helpful that he actually solved some of my team''s bugs for us. He''s an excellent analyst with top-rate database skills, a wonderful work ethic, and a terrific customer service "bedside manner." We tried to bring him to Bellevue, but another company was too quick for us.'
+    private: false
+  -
+    name: 'Michael Soden'
+    flavor: professional
+    quote: 'William is very quick study when it come to technology.  He has demonstrated the ability to understand new systems and concepts with ease.  William is currently in a Lead role under my direction and ensures without fail the job gets done.  I count my self and the organization I work for lucky to have William''s skill and professionalism on our team.'
+    private: false
+  -
+    name: 'Mike Schaeffer'
+    flavor: professional
+    quote: "William is an esteemed colleague at Teletech. He was my ASG for over a year and, as a technical advisor, continually impressed me and my fellow support agents. His technical knowledge in reference to computer hardware and software troubleshooting was among the best in our call center. Even more impressive was his ability to quickly find solutions \"under fire\" and convey understandable answers to us.\r\n  Another important point to note about William is his integrity. William has proven repeatedly that he will live up to any promises he makes, do it in the time frame he promised, and deliver a quality service as a net result. William will rise to the top as the result of helping others, rather than at the expense of others.  He is a hard worker and is very solution-oriented.\r\n  I am a much better tech agent as the result having Wiiliam as my ASG.  I have consistently been ranked in the top 10 per cent of all agents locally and globally, and I must give William his credit in this. With his technical assistance as my first ASG out of my training, I quickly gained the technical confidence needed for this job. It was comforting to know that I had him there to support any issues which may arise.\r\n  I believe that William is one of those rare catches you are looking for as an employer or a client."
+    private: false
+  -
+    name: 'James Lewis'
+    flavor: professional
+    quote: 'William was a pleasure to work with.  While working with Hewlett-Packard client, William did his best to isolate trends and gather relative data needed by client to resolve trendable issues.  He was always very prompt and very detail oriented.'
+    private: false
+languages:
+  -
+    language: English
+    fluency: 'Native Speaker'
