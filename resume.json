@@ -53,7 +53,7 @@
     {
       "company": "TEAMClinics",
       "name": "TEAMClinics",
-      "highlights": ["Rebuilding existing PHP site in ASP.NET","Built new and converted existing functionalites to new site","Worked remotely with little supervision","Interacted directly with C-Suite daily","Assisted with release workflow of project to maintain smooth transition"],
+      "highlights": ["Rebuilding existing PHP site in ASP.NET","Built new and converted existing functionalities to new site","Worked remotely with little supervision","Interacted directly with C-Suite daily","Assisted with release workflow of project to maintain smooth transition"],
       "position": "Sr .NET Developer",
       "startDate": "2021-03-17",
       "summary": "",
@@ -92,7 +92,7 @@
       "company": "Avis Budget Group",
       "name": "Avis Budget Group",
       "endDate": "2017-03-31",
-      "highlights": ["Developed email survey invitation scheduling tool in C#, utilizing customizable timing w/10% response rate that used JSON config files.","Developed tracking tools utilizing custom branching logic in C#, with logic that fully resets if user changes original responses. ","Developed cross-framework websites using modern web methodologies. ","Responsible for Server maintenance and performance"],
+      "highlights": ["Developed email survey invitation scheduling tool in C#, utilising customisable timing w/10% response rate that used JSON config files.","Developed tracking tools utilizing custom branching logic in C#, with logic that fully resets if user changes original responses. ","Developed cross-framework websites using modern web methodologies. ","Responsible for Server maintenance and performance"],
       "position": "Reporting Developer III",
       "startDate": "2014-10-31",
       "summary": "",
@@ -102,7 +102,7 @@
       "company": "Expedia",
       "name": "Expedia",
       "endDate": "2014-10-31",
-      "highlights": ["Resolved issues with hoteliers’ access to internal systems, appearance on partner websites and reservations processing incorrectly. ","Created and modified T-SQL queries to complete the duties at hand. ","Navigated multiple web-based support systems to ensure that the data is showing and booking correctly on the partner websites. ","Developed an automation system for resolution of failed e-mail/ notifications, saving 40% - 60% in time and about $35,000 yearly.","Developed and implemented an automation system in VBA for assignment of analyst casework, to mitigate out-of-order case work."],
+      "highlights": ["Resolved issues with hoteliers’ access to internal systems, appearance on partner websites and reservations processing incorrectly. ","Created and modified T-SQL queries to complete the duties at hand. ","Navigated multiple web-based support systems to ensure that the data is showing and booking correctly on the partner websites. ","Developed an automation system for resolution of failed e-mail/ notifications, saving 40% - 60% in time and about $35,000 yearly.","Developed and implemented an automation system in VBA for assignment of analyst casework to mitigate out-of-order casework."],
       "position": "Hotel Systems Analyst Lead",
       "startDate": "2010-07-31",
       "summary": "",
@@ -171,7 +171,7 @@
     {
       "name": ".NET Framework",
       "level": "Advanced",
-      "keywords": ["C#","ASP.NET MVC","ASP.NET AJAX","Syncfusion","ASP.NET Core","ASP.NET","ASP.NET Web API","WebForms","WinForms"]
+      "keywords": ["C#","Razor","ASP.NET MVC","ASP.NET AJAX","Syncfusion","ASP.NET Core","ASP.NET","ASP.NET Web API","WebForms","WinForms"]
     },
     {
       "name": "Web Development",
