@@ -9,7 +9,7 @@
   },
   "basics": {
     "name": "Keith Lewis",
-    "label": "Developer III at Summit ESP",
+    "label": "Sr .NET Developer at TEAMClinics",
     "picture": "https://en.gravatar.com/userimage/27363297/ca9c48aaa8718c563801201a4166a01c?size=400",
     "email": "kclewis0614@gmail.com",
     "phone": "417-429-7601",
@@ -51,11 +51,30 @@
   },
   "work": [
     {
+      "company": "TEAMClinics",
+      "name": "TEAMClinics",
+      "highlights": ["Rebuilding existing PHP site in ASP.NET","Built new and converted existing functionalites to new site","Worked remotely with little supervision","Interacted directly with C-Suite daily","Assisted with release workflow of project to maintain smooth transition"],
+      "position": "Sr .NET Developer",
+      "startDate": "2021-03-17",
+      "summary": "",
+      "skills": ["C#","Razor","MVC","SSDT","MSSQL","Javascript","JQuery","TSQL","Azure DevOps"]
+    },
+    {
+      "company": "Trinity Computers (Business Application Development)",
+      "name": "Trinity Computers (Business Application Development)",
+      "highlights": ["Building .NET Core app to make it easier to find Foss projects to submit your first PR to. ","CareerTrek - Developing .NET Core app to assist job hunters with tracking applications, giving recruiters an easy view, and rating recruiters","Planning .NET Core app to that will be a multi-industry modular modern ERP solution ","Deploying applications to AWS"],
+      "position": "Owner/Lead Solutions Magician",
+      "startDate": "2015-03-31",
+      "summary": "",
+      "skills": ["C#","ASP.NET MVC","ASP.NET AJAX","Syncfusion","ASP.NET Core","ASP.NET","ASP.NET Web API", "VueJS"]
+    },
+    {
       "company": "Summit ESP",
       "name": "Summit ESP",
       "highlights": ["Refactoring Django/Angular app into a Flask/Vue App, Developed side-by-side with existing app","Maintained and extended existing Django applications and developed Python scripts to meet business demands","Maintained and created servers, networking stacks and ECS","Utilised Travis CI to automate testing/validation","Managed Git workflow of several projects"],
       "position": "Developer III",
       "startDate": "2019-05-31",
+      "endDate": "2021-03-12",
       "summary": "",
       "skills": ["Python","Django","Flask","Vue","React","AngularJS","PostgreSQL","MySQL","TravisCI","AWS","Fishbowl","Firebird"]
     },
@@ -68,15 +87,6 @@
       "startDate": "2017-03-31",
       "summary": "",
       "skills": ["PowerBI","ASP.NET MVC","SealReports",".NET","C#","Firebird","MySQL","Fishbowl"]
-    },
-    {
-      "company": "Trinity Computers (Business Application Development)",
-      "name": "Trinity Computers (Business Application Development)",
-      "highlights": ["Building .NET Core app to make it easier to find Foss projects to submit your first PR to. ","Developing .NET Core app to assist job hunters with tracking applications, giving recruiters an easy view, and rating recruiters","Planning .NET Core app to that will be a multi-industry modular modern ERP solution ","Deploying applications to AWS"],
-      "position": "Owner/Lead Solutions Magician",
-      "startDate": "2015-03-31",
-      "summary": "",
-      "skills": ["C#","ASP.NET MVC","ASP.NET AJAX","Syncfusion","ASP.NET Core","ASP.NET","ASP.NET Web API"]
     },
     {
       "company": "Avis Budget Group",
@@ -97,16 +107,6 @@
       "startDate": "2010-07-31",
       "summary": "",
       "skills": ["VBA","SQLServer","SOAP","XML","XQuery"]
-    },
-    {
-      "company": "Teletech (HP)",
-      "name": "Teletech (HP)",
-      "endDate": "2010-05-31",
-      "highlights": ["Created reports to outline agent, supervisor and site level performance on a variety of metrics. ","Maintained databases in Microsoft Access as well as Microsoft SQL Server 2008, created queries for Jet-SQL, Transact-SQL and PL/SQL to create reports that met the needs of the client. ","Developed VBA programs to automate data-mining and data collection to speed up daily performance.","Performed regular audits to ensure ticket coding process adherence and coached agents in process and problem-solving skills. ","Ensured agents were following calling procedures, maintaining continuing education and following proper callback procedures. ","Led a successful fundraising project for the Leukemia and Lymphoma Society as a part of a leadership development program; raised $1700 for the Leukemia and Lymphoma Society."],
-      "position": "Agent Support Group",
-      "startDate": "2007-09-30",
-      "summary": "",
-      "skills": ["VBA","Access","SQLServer"]
     }
   ],
   "volunteer": [
