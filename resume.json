@@ -51,18 +51,42 @@
   },
   "work": [
     {
+      "company": "Educational Development Corp",
+      "name": "Educational Development Corp",
+      "highlights": [
+        "Developed app from base in Blazor",
+        "Resolved bugs and added functionality to ecommerce site",
+        "Worked with little supervision",
+        "Coached junior devs in proper software practices",
+        "Assisted Jr devs with problematic issues"],
+      "position": "Sr Software Developer",
+      "startDate": "2021-11-22",
+      "summary": "",
+      "skills": ["C#","Razor","MVC","Blazor","MSSQL","Javascript","JQuery","MudBlazor","NopCommerce"]
+    },
+    {
       "company": "TEAMClinics",
       "name": "TEAMClinics",
-      "highlights": ["Rebuilding existing PHP site in ASP.NET","Built new and converted existing functionalities to new site","Worked remotely with little supervision","Interacted directly with C-Suite daily","Assisted with release workflow of project to maintain smooth transition"],
+      "highlights": [
+        "Rebuilding existing PHP site in ASP.NET",
+        "Built new and converted existing functionalities to new site",
+        "Worked remotely with little supervision",
+        "Interacted directly with C-Suite daily",
+        "Assisted with release workflow of project to maintain smooth transition"],
       "position": "Sr .NET Developer",
       "startDate": "2021-03-17",
+      "endDate": "2021-10-01",
       "summary": "",
       "skills": ["C#","Razor","MVC","SSDT","MSSQL","Javascript","JQuery","TSQL","Azure DevOps"]
     },
     {
       "company": "Trinity Computers (Business Application Development)",
       "name": "Trinity Computers (Business Application Development)",
-      "highlights": ["Building .NET Core app to make it easier to find Foss projects to submit your first PR to. ","CareerTrek - Developing .NET Core app to assist job hunters with tracking applications, giving recruiters an easy view, and rating recruiters","Planning .NET Core app to that will be a multi-industry modular modern ERP solution ","Deploying applications to AWS"],
+      "highlights": [
+        "Building .NET Core app to make it easier to find Foss projects to submit your first PR to. ",
+        "CareerTrek - Developing .NET Core app to assist job hunters with tracking applications, giving recruiters an easy view, and rating recruiters",
+        "Planning .NET Core app that will be a multi-industry modular modern ERP solution ",
+        "Deploying applications to AWS"],
       "position": "Owner/Lead Solutions Magician",
       "startDate": "2015-03-31",
       "summary": "",
@@ -71,7 +95,12 @@
     {
       "company": "Summit ESP",
       "name": "Summit ESP",
-      "highlights": ["Refactoring Django/Angular app into a Flask/Vue App, Developed side-by-side with existing app","Maintained and extended existing Django applications and developed Python scripts to meet business demands","Maintained and created servers, networking stacks and ECS","Utilised Travis CI to automate testing/validation","Managed Git workflow of several projects"],
+      "highlights": ["Refactoring Django/Angular app into a Flask/Vue App, Developed side-by-side with existing app",
+        "Maintained and extended existing Django applications and developed Python scripts to meet business demands",
+        "Maintained and created servers, networking stacks and ECS",
+        "Utilised Travis CI to automate testing/validation",
+        "Helped other devs understand database structure and helped onboard new devs",
+        "Managed Git workflow of several projects"],
       "position": "Developer III",
       "startDate": "2019-05-31",
       "endDate": "2021-03-12",
@@ -82,7 +111,11 @@
       "company": "Summit ESP",
       "name": "Summit ESP",
       "endDate": "2019-05-31",
-      "highlights": ["Administered Fishbowl, a custom Java ERP backed by Firebird. Added new users, maintained pricing rules.","Developed Excel-based ODBC reports for users out of MySQL and Firebird and implemented a self-service reporting tool.","Developed VBA automation for pulling SCADA data for wells out of a PostgreSQL database.","Developed and Maintained C# programs for importing and exporting data from Fishbowl.","Developed financial dashboard in Microsoft PowerBI and in QlikView."],
+      "highlights": ["Administered Fishbowl, a custom Java ERP backed by Firebird. Added new users, maintained pricing rules.",
+        "Developed Excel-based ODBC reports for users out of MySQL and Firebird and implemented a self-service reporting tool.",
+        "Developed VBA automation for pulling SCADA data for wells out of a PostgreSQL database.",
+        "Developed and Maintained C# programs for importing and exporting data from Fishbowl.",
+        "Developed financial dashboard in Microsoft PowerBI and in QlikView."],
       "position": "ERP Admin/Business Reporting",
       "startDate": "2017-03-31",
       "summary": "",
@@ -92,7 +125,11 @@
       "company": "Avis Budget Group",
       "name": "Avis Budget Group",
       "endDate": "2017-03-31",
-      "highlights": ["Developed email survey invitation scheduling tool in C#, utilising customisable timing w/10% response rate that used JSON config files.","Developed tracking tools utilizing custom branching logic in C#, with logic that fully resets if user changes original responses. ","Developed cross-framework websites using modern web methodologies. ","Responsible for Server maintenance and performance"],
+      "highlights": ["Developed email survey invitation scheduling tool in C#, utilising customisable timing w/10% response rate that used JSON config files.",
+        "Developed tracking tools utilizing custom branching logic in C#, with logic that fully resets if user changes original responses. ",
+        "Developed cross-framework websites using modern web methodologies. ",
+        "Helped other devs understand database structure and helped more junior devs with difficult issues",
+        "Responsible for Server maintenance and performance"],
       "position": "Reporting Developer III",
       "startDate": "2014-10-31",
       "summary": "",
@@ -102,7 +139,15 @@
       "company": "Expedia",
       "name": "Expedia",
       "endDate": "2014-10-31",
-      "highlights": ["Resolved issues with hoteliers’ access to internal systems, appearance on partner websites and reservations processing incorrectly. ","Created and modified T-SQL queries to complete the duties at hand. ","Navigated multiple web-based support systems to ensure that the data is showing and booking correctly on the partner websites. ","Developed an automation system for resolution of failed e-mail/ notifications, saving 40% - 60% in time and about $35,000 yearly.","Developed and implemented an automation system in VBA for assignment of analyst casework to mitigate out-of-order casework."],
+      "highlights": ["Resolved issues with hoteliers’ access to internal systems, appearance on partner websites and reservations processing incorrectly. ",
+        "Created and modified T-SQL queries to complete the duties at hand. ",
+        "Navigated multiple web-based support systems to ensure that the data is showing and booking correctly on the partner websites. ",
+        "Helped analysts understand database structure, and with hard issues",
+        "Nurtured mentoring relationship with analysts, determining candidates for promotion",
+        "Mentored Lead candidates in leading and mentoring to ensure transition to Leads",
+        "Saw a conversion rate of 5 out of 6 Lead candidates making Lead",
+        "Developed an automation system for resolution of failed e-mail/ notifications, saving 40% - 60% in time and about $35,000 yearly.",
+        "Developed and implemented an automation system in VBA for assignment of analyst casework to mitigate out-of-order casework."],
       "position": "Hotel Systems Analyst Lead",
       "startDate": "2010-07-31",
       "summary": "",
@@ -115,7 +160,7 @@
       "position": "Volunteer Developer",
       "website": "https://www.linkedin.com/company/660862",
       "startDate": "2015-05-31",
-      "summary": "Assisted with project development and implementation for the Tulsa, OK affiliate.",
+      "summary": "Assisted with project development and implementation for the Tulsa, OK Brigade.",
       "highlights": []
     },
     {
@@ -166,12 +211,32 @@
     }
   ],
   "awards": [],
-  "publications": [],
+  "publications": [
+    {
+      "name": "Pi Day: Making a RetroPi from a RaspberryPi",
+      "publisher": "Techlahoma",
+      "releaseDate": "2021-03-14",
+      "website": "https://www.youtube.com/watch?v=RBmAswULRyQ",
+      "summary": "Showing novices how to build a RetroPi"
+    },{
+      "name": "I want to contribute to OSS but don't know how",
+      "publisher": "Techlahoma",
+      "releaseDate": "2018-11-01",
+      "website": "https://www.youtube.com/watch?v=FTM0iwcIDqY",
+      "summary": "Encouraging contributions to FOSS"
+    },{
+      "name": "How to find issues to contribute to during Hacktoberfest",
+      "publisher": "Techlahoma",
+      "releaseDate": "2021-10-10",
+      "website": "https://youtu.be/3lmtgyuF2mg?t=855",
+      "summary": "Showing a tool to find issues to work on"
+    }
+  ],
   "skills": [
     {
       "name": ".NET Framework",
       "level": "Advanced",
-      "keywords": ["C#","Razor","ASP.NET MVC","ASP.NET AJAX","Syncfusion","ASP.NET Core","ASP.NET","ASP.NET Web API","WebForms","WinForms"]
+      "keywords": ["C#","Razor","ASP.NET MVC","ASP.NET AJAX", "Blazor", "MudBlazor", "NopCommerce","Syncfusion","ASP.NET Core","ASP.NET","ASP.NET Web API","WebForms","WinForms"]
     },
     {
       "name": "Web Development",
