@@ -51,6 +51,31 @@
   },
   "work": [
     {
+      "company": "CoreLogic, Inc",
+      "name": "CoreLogic, Inc",
+      "highlights": [
+        "Extend internal CRM application",
+        "Modify Stored Procedures to add additional functionalities",
+        "Rewrite onbarding scripts and processes to make them faster and more friendly",
+        "Assist with hot issues"],
+      "position": "Sr Professional, Software Engineer",
+      "startDate": "2022-07-25",
+      "summary": "",
+      "skills": ["C#","MVC","WebApi","MSSQL","Javascript","JQuery"]
+    },
+    {
+      "company": "Osage Nation",
+      "name": "Osage Nation",
+      "highlights": [
+        "Assist with developing Blazor Applications",
+        "Assist with Software, API and SDK integrations",
+        "Deliver generic, reusable components that can be developed into a framework"],
+      "position": "Software Engineer",
+      "startDate": "2022-07-18",
+      "summary": "",
+      "skills": ["C#","Razor","MVC","Blazor","MSSQL","Javascript","JQuery"]
+    },
+    {
       "company": "Educational Development Corp",
       "name": "Educational Development Corp",
       "highlights": [
@@ -61,6 +86,7 @@
         "Assisted Jr devs with problematic issues"],
       "position": "Sr Software Developer",
       "startDate": "2021-11-22",
+      "endDate": "2022-07-11",
       "summary": "",
       "skills": ["C#","Razor","MVC","Blazor","MSSQL","Javascript","JQuery","MudBlazor","NopCommerce"]
     },
