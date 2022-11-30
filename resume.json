@@ -9,19 +9,24 @@
   },
   "basics": {
     "name": "Keith Lewis",
-    "label": "Sr Professional, Software Engineer at CoreLogic",
+    "label": "Experienced Multidisciplinary Software Professional",
     "picture": "https://en.gravatar.com/userimage/27363297/ca9c48aaa8718c563801201a4166a01c?size=400",
     "email": "kclewis0614@gmail.com",
     "phone": "417-429-7601",
     "summary": "A self-taught Software Engineer with a varied experience whose programming languages include JavaScript, C#, Python, VBA, SQL (PL/SQL, T-SQL, Jet-SQL).  Experience with technologies such as ASP.NET, REST, JSON, SOAP, XML, AJAX, CSS, HTML, Server 2003/2012, SQL Server 2005/2008 R2/2012. IIS 6/8, Oracle SQL, Access, Salesforce and unique experience with platforms such as Splunk.",
     "location": {
       "countryCode": "US",
-      "address": "7892 E 126th St S, Apt 530",
-      "postalCode": "74008",
-      "city": "Bixby",
+      "address": "150 Fox Run Circle",
+      "postalCode": "74037",
+      "city": "Jenks",
       "region": "Oklahoma"
     },
     "profiles": [
+      {
+        "network": "Dot.Cards",
+        "username": "jacrys",
+        "url": "https://dot.cards/jacrys"
+      },
       {
         "network": "LinkedIn",
         "username": "jacrys",
@@ -31,11 +36,6 @@
         "network": "Github",
         "username": "jacrys",
         "url": "https://github.com/jacrys"
-      },
-      {
-        "network": "StackOverflow",
-        "username": "jacrys",
-        "url": "https://stackoverflow.com/story/jacrys"
       },
       {
         "network": "Twitter",
@@ -62,6 +62,19 @@
       "startDate": "2022-07-25",
       "summary": "",
       "skills": ["C#","MVC","WebApi","MSSQL","Javascript","JQuery"]
+    },
+    {
+      "company": "Trinity Computers (Business Application Development)",
+      "name": "Trinity Computers (Business Application Development)",
+      "highlights": [
+        "Building .NET Core app to make it easier to find Foss projects to submit your first PR to. ",
+        "CareerTrek - Developing .NET Core app to assist job hunters with tracking applications, giving recruiters an easy view, and rating recruiters",
+        "Planning .NET Core app that will be a multi-industry modular modern ERP solution ",
+        "Deploying applications to AWS"],
+      "position": "Owner/Lead Solutions Magician",
+      "startDate": "2015-03-31",
+      "summary": "",
+      "skills": ["C#","ASP.NET MVC","ASP.NET AJAX","Syncfusion","ASP.NET Core","ASP.NET","ASP.NET Web API", "VueJS"]
     },
     {
       "company": "Osage Nation",
@@ -104,19 +117,6 @@
       "endDate": "2021-10-01",
       "summary": "",
       "skills": ["C#","Razor","MVC","SSDT","MSSQL","Javascript","JQuery","TSQL","Azure DevOps"]
-    },
-    {
-      "company": "Trinity Computers (Business Application Development)",
-      "name": "Trinity Computers (Business Application Development)",
-      "highlights": [
-        "Building .NET Core app to make it easier to find Foss projects to submit your first PR to. ",
-        "CareerTrek - Developing .NET Core app to assist job hunters with tracking applications, giving recruiters an easy view, and rating recruiters",
-        "Planning .NET Core app that will be a multi-industry modular modern ERP solution ",
-        "Deploying applications to AWS"],
-      "position": "Owner/Lead Solutions Magician",
-      "startDate": "2015-03-31",
-      "summary": "",
-      "skills": ["C#","ASP.NET MVC","ASP.NET AJAX","Syncfusion","ASP.NET Core","ASP.NET","ASP.NET Web API", "VueJS"]
     },
     {
       "company": "Summit ESP",
